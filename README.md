@@ -63,6 +63,15 @@ Use **Customize → Connectors → Add custom connector** (menu labels can vary)
 and select **No sign in**. In a managed organization, an owner may need to add the connector first.
 Claude Code's marketplace installation does not create this separate account connection or install a cloud skill.
 
+## Grok
+
+Open [Grok Connectors](https://grok.com/connectors), choose **New Connector → Custom**,
+and enter the name **SC-Knowledge** and `https://lab.olne.no/sc-knowledge/mcp`.
+Leave authentication unset: this MCP service requires no sign-in or API key. Finish connecting and try a question.
+On Business or Enterprise, a team administrator may need to provision the connector first.
+The project owner confirmed the SC-Knowledge connection works on 2026-10-24.
+This connects the MCP tools, not the bundled skill; it does not require GitHub repository membership.
+
 ## What to try
 
 For SC-Knowledge, ask: “Using SC-Knowledge, compare the latest three numbered LIVE patch cycles. Show the snapshot and source dates.”
@@ -91,5 +100,6 @@ The files here are generated from reviewed client sources; development, server c
 - [Workspace import, desktop-only packages and app permissions](https://learn.chatgpt.com/docs/enterprise/plugin-management)
 - [Claude Code marketplaces](https://code.claude.com/docs/en/plugin-marketplaces)
 - [Claude custom connectors](https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp)
+- [Grok custom connectors](https://docs.x.ai/grok/connectors)
 
 SC-Knowledge is a community hobby project, not an official Cloud Imperium Games, OpenAI or Anthropic product.

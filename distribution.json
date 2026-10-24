@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "release": "2026-10-24.1",
+  "release": "2026-10-24.2",
   "repository": "https://github.com/olne-no/plugins",
   "files": [
     {
@@ -20,8 +20,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5452,
-      "sha256": "8c0a1961bb9a49a659af419aa726ea6c787160d12663953b9532d45bf70a24bd"
+      "bytes": 6079,
+      "sha256": "40a59d50f2247f4923c18b19b90df67f8184bebcdd74c3656f46a122bd9759f5"
     },
     {
       "path": "downloads/idiot-player-0.2.1.zip",
