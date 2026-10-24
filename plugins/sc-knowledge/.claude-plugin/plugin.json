@@ -1,0 +1,16 @@
+{
+  "name": "sc-knowledge",
+  "version": "0.5.1",
+  "description": "Star Citizen ships, weapons, crafting, mining signatures, missions, activity loot and patch statistics from sourced snapshots.",
+  "author": {
+    "name": "olne-no"
+  },
+  "repository": "https://github.com/olne-no/plugins",
+  "license": "MIT",
+  "keywords": [
+    "star-citizen",
+    "knowledge",
+    "mcp"
+  ],
+  "homepage": "https://olne.no/lab/sc-knowledge/"
+}

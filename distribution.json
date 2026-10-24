@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "release": "2026-10-24.1",
+  "repository": "https://github.com/olne-no/plugins",
+  "files": [
+    {
+      "path": ".agents/plugins/marketplace.json",
+      "bytes": 645,
+      "sha256": "05ebe96ee7cae753dfe55be207b235e58a93ceb1a7786b3f63f62ff5e4f7370e"
+    },
+    {
+      "path": ".claude-plugin/marketplace.json",
+      "bytes": 506,
+      "sha256": "a8f4c1fbc715445daaf42b4e0de865484b1f4b494f306943c6dfa21bfe159dcb"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 32,
+      "sha256": "74f066599d3fe2817756c3e532a869d370d4294c5c0a188487da2855f9b2378e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5452,
+      "sha256": "8c0a1961bb9a49a659af419aa726ea6c787160d12663953b9532d45bf70a24bd"
+    },
+    {
+      "path": "downloads/idiot-player-0.2.1.zip",
+      "bytes": 2582,
+      "sha256": "53ef9d2410788015a954f92d00cf2b358d94f64bdb677e900f7d4f3c1cd9ddec"
+    },
+    {
+      "path": "downloads/idiot-player-skill-0.2.1.zip",
+      "bytes": 1485,
+      "sha256": "a130e609117be5370a861146447ff24602a7decd28a7caee43ec540fedef2904"
+    },
+    {
+      "path": "downloads/sc-knowledge-0.5.1.zip",
+      "bytes": 8253,
+      "sha256": "67bf36f9ce109da0ec978dde6333345bac077a93cca70814b063df41ad90e4be"
+    },
+    {
+      "path": "downloads/sc-knowledge-skill-0.5.1.zip",
+      "bytes": 6957,
+      "sha256": "20463d00169e1b2dd7770e963c671c100536de39b208f14840fd844aeef7c45b"
+    },
+    {
+      "path": "openai/.agents/plugins/marketplace.json",
+      "bytes": 663,
+      "sha256": "b526e11429c6137c6b31e4f4eba4e85c572b4f79d1011d28a0821526c889f618"
+    },
+    {
+      "path": "openai/plugins/idiot-player/.codex-plugin/plugin.json",
+      "bytes": 653,
+      "sha256": "0703d508e236304c09083d27bbac5f7f3d5726156c81b765b96ed42932a9fbef"
+    },
+    {
+      "path": "openai/plugins/idiot-player/skills/idiot/SKILL.md",
+      "bytes": 2704,
+      "sha256": "a73920cde15ddbb34ae9df6d88a9e22449997edfd697f712b03fd72b9d603ee0"
+    },
+    {
+      "path": "openai/plugins/sc-knowledge/.codex-plugin/plugin.json",
+      "bytes": 1079,
+      "sha256": "aae7f67a8566fb5ac0b0c436c4015a277fc273c3a37840921f61c40df5230734"
+    },
+    {
+      "path": "openai/plugins/sc-knowledge/skills/sc-knowledge/SKILL.md",
+      "bytes": 16066,
+      "sha256": "fbcbdc25b03d5f8f4b9bea3292d85643bcda8c65a62a0dbdd1855572ec3511dd"
+    },
+    {
+      "path": "plugins/idiot-player/.claude-plugin/plugin.json",
+      "bytes": 482,
+      "sha256": "0ab3a212dc3e3861a1ca915a97c771308c822b68916e9f411292015f0ab114c0"
+    },
+    {
+      "path": "plugins/idiot-player/.codex-plugin/plugin.json",
+      "bytes": 684,
+      "sha256": "76a30be3fd3c967a6368bead450d8f2b58269fe7502e8db799f2d1c83a85bb0e"
+    },
+    {
+      "path": "plugins/idiot-player/.mcp.json",
+      "bytes": 114,
+      "sha256": "2c62cf9b10fde485f48e20af02d40c01e2f682b984c62d788dd1b95c3ec4de5e"
+    },
+    {
+      "path": "plugins/idiot-player/skills/idiot/SKILL.md",
+      "bytes": 2704,
+      "sha256": "a73920cde15ddbb34ae9df6d88a9e22449997edfd697f712b03fd72b9d603ee0"
+    },
+    {
+      "path": "plugins/sc-knowledge/.claude-plugin/plugin.json",
+      "bytes": 432,
+      "sha256": "4b1a801f94e4a8f82957b543fe2c2ae0d38282168891a4612aea9c70e4788124"
+    },
+    {
+      "path": "plugins/sc-knowledge/.codex-plugin/plugin.json",
+      "bytes": 1110,
+      "sha256": "7bb0e1bcc66ec6190a1f8c4ab569c7de3ba7cc1338b7e799035ea103c5304c8b"
+    },
+    {
+      "path": "plugins/sc-knowledge/.mcp.json",
+      "bytes": 128,
+      "sha256": "ba5462e2f19f41ead8feb28eeb26e10061e767ffa1982787c2aff1aae4a70e33"
+    },
+    {
+      "path": "plugins/sc-knowledge/skills/sc-knowledge/SKILL.md",
+      "bytes": 16066,
+      "sha256": "fbcbdc25b03d5f8f4b9bea3292d85643bcda8c65a62a0dbdd1855572ec3511dd"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "idiot-player",
+  "version": "0.2.1",
+  "description": "Play the Norwegian card game Idiot as a player at olne.no/lab/idiot — against computer opponents or with humans who join with a code. Tools come from the MCP server at lab.olne.no.",
+  "author": {
+    "name": "olne-no"
+  },
+  "homepage": "https://olne.no/lab/idiot/",
+  "repository": "https://github.com/olne-no/plugins",
+  "license": "MIT",
+  "keywords": [
+    "game",
+    "cards",
+    "mcp",
+    "idiot"
+  ]
+}

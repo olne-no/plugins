@@ -1,0 +1,32 @@
+{
+  "name": "olne-skills",
+  "interface": {
+    "displayName": "Olne — skills"
+  },
+  "plugins": [
+    {
+      "name": "idiot-player",
+      "source": {
+        "source": "local",
+        "path": "./plugins/idiot-player"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Entertainment"
+    },
+    {
+      "name": "sc-knowledge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sc-knowledge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education & Research"
+    }
+  ]
+}

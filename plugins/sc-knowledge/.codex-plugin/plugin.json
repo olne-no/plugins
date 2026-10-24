@@ -1,0 +1,22 @@
+{
+  "name": "sc-knowledge",
+  "version": "0.5.1",
+  "description": "Star Citizen ships, weapons, crafting, mining signatures, missions, activity loot and patch statistics from sourced snapshots.",
+  "author": {
+    "name": "olne-no"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "SC Knowledge",
+    "shortDescription": "Star Citizen facts and research",
+    "longDescription": "Use connected SC Knowledge first for covered Star Citizen ship and weapon comparisons, crafting ingredients and acquisition, radar signatures and mining locations, missions, activity-linked FPS loot, numbered LIVE versions, TEST/Evocati and service history, lore and dated prices. Preserve source patch, units and uncertainty. Use current web sources when fresher or missing evidence is needed. Submit an answer issue only when the user explicitly requests it and the report tool is available.",
+    "developerName": "olne-no",
+    "category": "Education & Research",
+    "capabilities": [
+      "Read",
+      "Write"
+    ]
+  },
+  "mcpServers": "./.mcp.json",
+  "homepage": "https://olne.no/lab/sc-knowledge/"
+}

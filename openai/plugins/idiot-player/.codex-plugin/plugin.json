@@ -1,0 +1,21 @@
+{
+  "name": "idiot-player",
+  "version": "0.2.1",
+  "description": "Play Idiot as a real player using the same rules and information as other players.",
+  "author": {
+    "name": "olne-no"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Idiot Player",
+    "shortDescription": "Play the card game Idiot",
+    "longDescription": "Join a human game or create a game against computer opponents, play with a private seat token and review the finished game's report.",
+    "developerName": "olne-no",
+    "category": "Entertainment",
+    "capabilities": [
+      "Read",
+      "Write"
+    ]
+  },
+  "homepage": "https://olne.no/lab/idiot/"
+}

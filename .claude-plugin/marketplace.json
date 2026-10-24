@@ -1,0 +1,18 @@
+{
+  "name": "olne",
+  "owner": {
+    "name": "olne-no"
+  },
+  "plugins": [
+    {
+      "name": "idiot-player",
+      "source": "./plugins/idiot-player",
+      "description": "Play Idiot as a real player using the same rules and information as other players."
+    },
+    {
+      "name": "sc-knowledge",
+      "source": "./plugins/sc-knowledge",
+      "description": "Star Citizen ships, weapons, crafting, mining signatures, missions, activity loot and patch statistics from sourced snapshots."
+    }
+  ]
+}

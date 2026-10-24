@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sc-knowledge": {
+      "type": "http",
+      "url": "https://lab.olne.no/sc-knowledge/mcp"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "idiot": {
+      "type": "http",
+      "url": "https://lab.olne.no/idiot/mcp"
+    }
+  }
+}
