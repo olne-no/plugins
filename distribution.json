@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "release": "2026-10-24.2",
+  "release": "2026-10-25.1",
   "repository": "https://github.com/olne-no/plugins",
   "files": [
     {
@@ -34,14 +34,14 @@
       "sha256": "a130e609117be5370a861146447ff24602a7decd28a7caee43ec540fedef2904"
     },
     {
-      "path": "downloads/sc-knowledge-0.5.1.zip",
-      "bytes": 8253,
-      "sha256": "67bf36f9ce109da0ec978dde6333345bac077a93cca70814b063df41ad90e4be"
+      "path": "downloads/sc-knowledge-0.6.0.zip",
+      "bytes": 10500,
+      "sha256": "ebf883bf9050ae88886a73878c2872157b7e513ac9aae96df81cfd46a1a52e37"
     },
     {
-      "path": "downloads/sc-knowledge-skill-0.5.1.zip",
-      "bytes": 6957,
-      "sha256": "20463d00169e1b2dd7770e963c671c100536de39b208f14840fd844aeef7c45b"
+      "path": "downloads/sc-knowledge-skill-0.6.0.zip",
+      "bytes": 9204,
+      "sha256": "00035ac54ac03c4992294b97d1bfdbf25f75ca9528bd2a11ab0764868e60d218"
     },
     {
       "path": "openai/.agents/plugins/marketplace.json",
@@ -61,12 +61,12 @@
     {
       "path": "openai/plugins/sc-knowledge/.codex-plugin/plugin.json",
       "bytes": 1079,
-      "sha256": "aae7f67a8566fb5ac0b0c436c4015a277fc273c3a37840921f61c40df5230734"
+      "sha256": "a315101d232521c29732e5d9e5a5ff3ccd72ff52e0c75011c2b08d6ce0f613f1"
     },
     {
       "path": "openai/plugins/sc-knowledge/skills/sc-knowledge/SKILL.md",
-      "bytes": 16066,
-      "sha256": "fbcbdc25b03d5f8f4b9bea3292d85643bcda8c65a62a0dbdd1855572ec3511dd"
+      "bytes": 22171,
+      "sha256": "fe65da73eaf51aa12228fc56a077ae0f451d5dc417b252165d5f503980278293"
     },
     {
       "path": "plugins/idiot-player/.claude-plugin/plugin.json",
@@ -91,12 +91,12 @@
     {
       "path": "plugins/sc-knowledge/.claude-plugin/plugin.json",
       "bytes": 432,
-      "sha256": "4b1a801f94e4a8f82957b543fe2c2ae0d38282168891a4612aea9c70e4788124"
+      "sha256": "b2ad45a28c8f342beb4e45efbb1b506200311b8df361eadd23a95bc8c6ae5f71"
     },
     {
       "path": "plugins/sc-knowledge/.codex-plugin/plugin.json",
       "bytes": 1110,
-      "sha256": "7bb0e1bcc66ec6190a1f8c4ab569c7de3ba7cc1338b7e799035ea103c5304c8b"
+      "sha256": "01859ee67af6ea7e3e9181cea6cbb537c3ad859d248ce470b901c4f281167b43"
     },
     {
       "path": "plugins/sc-knowledge/.mcp.json",
@@ -105,8 +105,20 @@
     },
     {
       "path": "plugins/sc-knowledge/skills/sc-knowledge/SKILL.md",
-      "bytes": 16066,
-      "sha256": "fbcbdc25b03d5f8f4b9bea3292d85643bcda8c65a62a0dbdd1855572ec3511dd"
+      "bytes": 22171,
+      "sha256": "fe65da73eaf51aa12228fc56a077ae0f451d5dc417b252165d5f503980278293"
+    }
+  ],
+  "allowed_retained_archives": [
+    {
+      "path": "downloads/sc-knowledge-0.5.1.zip",
+      "bytes": 8253,
+      "sha256": "67bf36f9ce109da0ec978dde6333345bac077a93cca70814b063df41ad90e4be"
+    },
+    {
+      "path": "downloads/sc-knowledge-skill-0.5.1.zip",
+      "bytes": 6957,
+      "sha256": "20463d00169e1b2dd7770e963c671c100536de39b208f14840fd844aeef7c45b"
     }
   ]
 }
