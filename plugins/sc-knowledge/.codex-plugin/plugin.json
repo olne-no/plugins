@@ -1,6 +1,6 @@
 {
   "name": "sc-knowledge",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Star Citizen ships, weapons, crafting, mining signatures, missions, activity loot and patch statistics from sourced snapshots.",
   "author": {
     "name": "olne-no"
